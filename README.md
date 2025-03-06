@@ -1,20 +1,16 @@
 # Grow-some
 
-## プロフィール統計
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grow-some&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## Prifile
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grow-some&show_icons=true&theme=flat)](https://github.com/anuraghazra/github-readme-stats)
 
-## 使用言語
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grow-some&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grow-some&layout=compact&theme=flat)](https://github.com/anuraghazra/github-readme-stats)
 
-## トロフィー
-[![trophy](https://github-profile-trophy.vercel.app/?username=Grow-some&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Grow-some&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-## スキル
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,vue,aws,docker)](https://skillicons.dev)
-
-## フォロワー
-![followers](https://img.shields.io/github/followers/Grow-some?style=social)
-
+## Like
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,azure,arduino,ubuntu,docker,blender,discord)](https://skillicons.dev)
 
 - 🔭 I’m currently working on System Integrator
 - 🌱 I’m currently learning Machine Learning and WebUI
